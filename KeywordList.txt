@@ -12,3 +12,5 @@ float
 double
 char
 boolean
+import
+new
