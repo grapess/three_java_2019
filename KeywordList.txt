@@ -19,3 +19,11 @@ else
 private
 protected
 null
+switch
+case
+default
+break
+for
+do
+while
+return
